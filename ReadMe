@@ -1,0 +1,7 @@
+
+
+this project was realized during my studies at ENSEEIHT school of engineering. It aims to use concurrency - multithreading and RMI in manupulations of special type of object called : Tuple.
+
+the package rootClasses("called linda in comments") was furnished.
+
+
